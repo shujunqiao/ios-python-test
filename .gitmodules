@@ -1,0 +1,3 @@
+[submodule "python-embedded"]
+	path = python-embedded
+	url = https://github.com/video-dl/python-embedded
